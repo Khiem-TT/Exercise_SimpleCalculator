@@ -1,0 +1,7 @@
+{
+  "name": "Exercise_SimpleCalculator",
+  "version": "1.0.0",
+  "dependencies": {
+    "qs": "^6.11.1"
+  }
+}
